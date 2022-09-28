@@ -1,6 +1,17 @@
 # shadowrocket_for_android
 A V2Ray client for Android, builtin lots of available servers
 
+## Downloads
+
+[app-shadowrocket-arm64-v8a-release.apk](https://download.fastgit.org/Pawdroid/shadowrocket_for_android/releases/download/10.2/app-shadowrocket-arm64-v8a-release.apk)
+
+[app-shadowrocket-armeabi-v7a-release.apk](https://download.fastgit.org/Pawdroid/shadowrocket_for_android/releases/download/10.2/app-shadowrocket-armeabi-v7a-release.apk)
+
+[app-shadowrocket-x86-release.apk](https://download.fastgit.org/Pawdroid/shadowrocket_for_android/releases/download/10.2/app-shadowrocket-x86-release.apk)
+
+[app-shadowrocket-x86_64-release.apk](https://download.fastgit.org/Pawdroid/shadowrocket_for_android/releases/download/10.2/app-shadowrocket-x86_64-release.apk)
+
+
 ## Website
 
 [https://shadowrocket.v2cross.com](https://shadowrocket.v2cross.com)
