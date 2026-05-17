@@ -20,19 +20,22 @@ Elige el APK que coincida con la arquitectura de tu dispositivo. Si no estás se
 
 | Tipo de dispositivo | APK |
 | --- | --- |
-| La mayoría de teléfonos Android modernos | [`Shadowrocket_10.10.5_shadowrocketStandard_arm64-v8a.apk`](../releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_arm64-v8a.apk) |
-| Teléfonos Android antiguos de 32 bits | [`Shadowrocket_10.10.5_shadowrocketStandard_armeabi-v7a.apk`](../releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_armeabi-v7a.apk) |
-| Emulador Android de 64 bits | [`Shadowrocket_10.10.5_shadowrocketStandard_x86_64.apk`](../releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_x86_64.apk) |
-| Emulador Android antiguo | [`Shadowrocket_10.10.5_shadowrocketStandard_x86.apk`](../releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_x86.apk) |
+| La mayoría de teléfonos Android modernos | [`Shadowrocket_10.10.5_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_arm64-v8a.apk) |
+| Teléfonos Android antiguos de 32 bits | [`Shadowrocket_10.10.5_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_armeabi-v7a.apk) |
+| Emulador Android de 64 bits | [`Shadowrocket_10.10.5_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_x86_64.apk) |
+| Emulador Android antiguo | [`Shadowrocket_10.10.5_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_x86.apk) |
 
 ## Funciones principales
 
-Incluye importación, uso compartido y copia de perfiles proxy, conexión con un toque, prueba de latencia, diagnóstico de nodos con navegador, sugerencias DNS/FakeDNS, grupos de políticas, cadenas proxy y copia WebDAV.
+Incluye importación, uso compartido y copia de perfiles proxy, conexión con un toque, prueba de latencia, diagnóstico de nodos con navegador, sugerencias DNS/FakeDNS, grupos de políticas, cadenas de proxy y soporte WebDAV para backup.
 
 ## Instalación
 
-Descarga el APK desde GitHub Releases y ábrelo en tu dispositivo Android. Si Android bloquea la instalación, permite instalar desde el navegador o el administrador de archivos. Abre la app, concede el permiso VPN e importa o añade tu perfil.
+1. Descarga el APK desde GitHub Releases.
+2. Ábrelo en tu dispositivo Android.
+3. Si Android bloquea la instalación, permite la instalación desde el navegador o el administrador de archivos.
+4. Abre Shadowrocket y concede el permiso VPN cuando se solicite.
 
 ## Preguntas frecuentes
 
-Para la mayoría de teléfonos usa arm64-v8a. Usa armeabi-v7a solo en dispositivos antiguos de 32 bits. Si algunas webs no abren tras conectar, ejecuta el diagnóstico de nodos y prueba DNS local/FakeDNS o cambia el DNS VPN. Puedes instalar una nueva APK encima de la versión anterior.
+Para la mayoría de teléfonos usa arm64-v8a. Usa armeabi-v7a solo en dispositivos antiguos de 32 bits.

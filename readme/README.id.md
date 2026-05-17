@@ -20,19 +20,11 @@ Pilih APK yang sesuai dengan arsitektur CPU perangkat Anda. Jika ragu, pilih arm
 
 | Jenis perangkat | APK |
 | --- | --- |
-| Sebagian besar ponsel Android modern | [`Shadowrocket_10.10.5_shadowrocketStandard_arm64-v8a.apk`](../releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_arm64-v8a.apk) |
-| Ponsel Android 32-bit lama | [`Shadowrocket_10.10.5_shadowrocketStandard_armeabi-v7a.apk`](../releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_armeabi-v7a.apk) |
-| Emulator Android 64-bit | [`Shadowrocket_10.10.5_shadowrocketStandard_x86_64.apk`](../releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_x86_64.apk) |
-| Emulator Android lama | [`Shadowrocket_10.10.5_shadowrocketStandard_x86.apk`](../releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_x86.apk) |
+| Sebagian besar ponsel Android modern | [`Shadowrocket_10.10.5_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_arm64-v8a.apk) |
+| Ponsel Android 32-bit lama | [`Shadowrocket_10.10.5_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_armeabi-v7a.apk) |
+| Emulator Android 64-bit | [`Shadowrocket_10.10.5_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_x86_64.apk) |
+| Emulator Android lama | [`Shadowrocket_10.10.5_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_x86.apk) |
 
 ## Fitur utama
 
-Mendukung impor, berbagi, dan backup profil proxy, koneksi sekali ketuk, uji latensi, diagnosis node berbasis browser, saran DNS/FakeDNS, grup kebijakan, rantai proxy, dan backup WebDAV.
-
-## Instalasi
-
-Unduh APK dari GitHub Releases lalu buka di perangkat Android. Jika Android memblokir instalasi, izinkan pemasangan dari browser atau pengelola file. Buka aplikasi, berikan izin VPN, lalu impor atau tambahkan profil.
-
-## FAQ
-
-Sebagian besar ponsel memakai arm64-v8a. Gunakan armeabi-v7a hanya untuk perangkat 32-bit lama. Jika beberapa situs tidak bisa dibuka setelah terhubung, jalankan diagnosis node dan coba DNS lokal/FakeDNS atau ubah DNS VPN. APK baru bisa dipasang di atas versi lama.
+Mendukung impor, berbagi, dan backup profil proxy, one-tap connection, latency test, dan node diagnosis.
