@@ -20,19 +20,9 @@
 
 | ডিভাইসের ধরন | APK |
 | --- | --- |
-| বেশিরভাগ আধুনিক Android ফোন | [`Shadowrocket_10.10.5_shadowrocketStandard_arm64-v8a.apk`](../releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_arm64-v8a.apk) |
-| পুরোনো 32-bit Android ফোন | [`Shadowrocket_10.10.5_shadowrocketStandard_armeabi-v7a.apk`](../releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_armeabi-v7a.apk) |
-| 64-bit Android emulator | [`Shadowrocket_10.10.5_shadowrocketStandard_x86_64.apk`](../releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_x86_64.apk) |
-| পুরোনো Android emulator | [`Shadowrocket_10.10.5_shadowrocketStandard_x86.apk`](../releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_x86.apk) |
+| বেশিরভাগ আধুনিক Android ফোন | [`Shadowrocket_10.10.5_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_arm64-v8a.apk) |
+| পুরোনো 32-bit Android ফোন | [`Shadowrocket_10.10.5_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_armeabi-v7a.apk) |
+| 64-bit Android emulator | [`Shadowrocket_10.10.5_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_x86_64.apk) |
+| পুরোনো Android emulator | [`Shadowrocket_10.10.5_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_x86.apk) |
 
-## মূল ফিচার
-
-Proxy profile import, share ও backup, one-tap connection, latency test, browser-based node diagnosis, DNS/FakeDNS suggestion, policy group, proxy chain এবং WebDAV backup সমর্থন করে।
-
-## ইনস্টল
-
-GitHub Releases থেকে APK ডাউনলোড করে Android ডিভাইসে খুলুন। Android install block করলে browser বা file manager থেকে install করার অনুমতি দিন। অ্যাপ খুলে VPN permission দিন এবং profile add/import করুন।
-
-## FAQ
-
-বেশিরভাগ ফোনে arm64-v8a ব্যবহার করুন। শুধুমাত্র পুরোনো 32-bit ডিভাইসে armeabi-v7a লাগবে। connect করার পর কিছু site না খুললে node diagnosis চালান এবং local DNS/FakeDNS বা VPN DNS পরিবর্তন করে দেখুন। নতুন APK পুরোনো version-এর উপর install করা যায়।
+...
