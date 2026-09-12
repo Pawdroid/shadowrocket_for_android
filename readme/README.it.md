@@ -8,9 +8,9 @@
 
 | Item | Value |
 | --- | --- |
-| Version | `10.10.50` |
+| Version | `10.10.51` |
 | Channel | `Standard` |
-| Release tag | `10.10.50` |
+| Release tag | `10.10.51` |
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
@@ -20,10 +20,10 @@ Scegli l’APK adatto all’architettura CPU del dispositivo. Se non sai quale s
 
 | Tipo di dispositivo | APK |
 | --- | --- |
-| La maggior parte dei telefoni Android moderni | [`Shadowrocket_10.10.50_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_arm64-v8a.apk) |
-| Telefoni Android 32 bit più vecchi | [`Shadowrocket_10.10.50_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_armeabi-v7a.apk) |
-| Emulatore Android 64 bit | [`Shadowrocket_10.10.50_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_x86_64.apk) |
-| Emulatore Android più vecchio | [`Shadowrocket_10.10.50_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_x86.apk) |
+| La maggior parte dei telefoni Android moderni | [`Shadowrocket_10.10.51_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.51/Shadowrocket_10.10.51_shadowrocketStandard_arm64-v8a.apk) |
+| Telefoni Android 32 bit più vecchi | [`Shadowrocket_10.10.51_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.51/Shadowrocket_10.10.51_shadowrocketStandard_armeabi-v7a.apk) |
+| Emulatore Android 64 bit | [`Shadowrocket_10.10.51_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.51/Shadowrocket_10.10.51_shadowrocketStandard_x86_64.apk) |
+| Emulatore Android più vecchio | [`Shadowrocket_10.10.51_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.51/Shadowrocket_10.10.51_shadowrocketStandard_x86.apk) |
 
 ## Funzioni principali
 

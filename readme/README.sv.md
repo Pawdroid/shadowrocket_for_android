@@ -8,9 +8,9 @@
 
 | Item | Value |
 | --- | --- |
-| Version | `10.10.50` |
+| Version | `10.10.51` |
 | Channel | `Standard` |
-| Release tag | `10.10.50` |
+| Release tag | `10.10.51` |
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
@@ -20,10 +20,10 @@ Välj APK som matchar enhetens CPU-arkitektur. Om du är osäker, välj arm64-v8
 
 | Enhetstyp | APK |
 | --- | --- |
-| De flesta moderna Android-telefoner | [`Shadowrocket_10.10.50_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_arm64-v8a.apk) |
-| Äldre 32-bitars Android-telefoner | [`Shadowrocket_10.10.50_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_armeabi-v7a.apk) |
-| 64-bitars Android-emulator | [`Shadowrocket_10.10.50_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_x86_64.apk) |
-| Äldre Android-emulator | [`Shadowrocket_10.10.50_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_x86.apk) |
+| De flesta moderna Android-telefoner | [`Shadowrocket_10.10.51_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.51/Shadowrocket_10.10.51_shadowrocketStandard_arm64-v8a.apk) |
+| Äldre 32-bitars Android-telefoner | [`Shadowrocket_10.10.51_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.51/Shadowrocket_10.10.51_shadowrocketStandard_armeabi-v7a.apk) |
+| 64-bitars Android-emulator | [`Shadowrocket_10.10.51_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.51/Shadowrocket_10.10.51_shadowrocketStandard_x86_64.apk) |
+| Äldre Android-emulator | [`Shadowrocket_10.10.51_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.51/Shadowrocket_10.10.51_shadowrocketStandard_x86.apk) |
 
 ## Höjdpunkter
 

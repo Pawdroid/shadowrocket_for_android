@@ -8,9 +8,9 @@
 
 | Item | Value |
 | --- | --- |
-| Version | `10.10.50` |
+| Version | `10.10.51` |
 | Channel | `Standard` |
-| Release tag | `10.10.50` |
+| Release tag | `10.10.51` |
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
@@ -20,10 +20,10 @@ Alegeți APK-ul potrivit arhitecturii CPU a dispozitivului. Dacă nu sunteți si
 
 | Tip dispozitiv | APK |
 | --- | --- |
-| Majoritatea telefoanelor Android moderne | [`Shadowrocket_10.10.50_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_arm64-v8a.apk) |
-| Telefoane Android vechi pe 32 de biți | [`Shadowrocket_10.10.50_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_armeabi-v7a.apk) |
-| Emulator Android pe 64 de biți | [`Shadowrocket_10.10.50_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_x86_64.apk) |
-| Emulator Android vechi | [`Shadowrocket_10.10.50_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_x86.apk) |
+| Majoritatea telefoanelor Android moderne | [`Shadowrocket_10.10.51_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.51/Shadowrocket_10.10.51_shadowrocketStandard_arm64-v8a.apk) |
+| Telefoane Android vechi pe 32 de biți | [`Shadowrocket_10.10.51_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.51/Shadowrocket_10.10.51_shadowrocketStandard_armeabi-v7a.apk) |
+| Emulator Android pe 64 de biți | [`Shadowrocket_10.10.51_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.51/Shadowrocket_10.10.51_shadowrocketStandard_x86_64.apk) |
+| Emulator Android vechi | [`Shadowrocket_10.10.51_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.51/Shadowrocket_10.10.51_shadowrocketStandard_x86.apk) |
 
 ## Funcții principale
 

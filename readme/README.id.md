@@ -8,9 +8,9 @@
 
 | Item | Value |
 | --- | --- |
-| Version | `10.10.50` |
+| Version | `10.10.51` |
 | Channel | `Standard` |
-| Release tag | `10.10.50` |
+| Release tag | `10.10.51` |
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
@@ -20,10 +20,10 @@ Pilih APK yang sesuai dengan arsitektur CPU perangkat Anda. Jika ragu, pilih arm
 
 | Jenis perangkat | APK |
 | --- | --- |
-| Sebagian besar ponsel Android modern | [`Shadowrocket_10.10.50_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_arm64-v8a.apk) |
-| Ponsel Android 32-bit lama | [`Shadowrocket_10.10.50_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_armeabi-v7a.apk) |
-| Emulator Android 64-bit | [`Shadowrocket_10.10.50_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_x86_64.apk) |
-| Emulator Android lama | [`Shadowrocket_10.10.50_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_x86.apk) |
+| Sebagian besar ponsel Android modern | [`Shadowrocket_10.10.51_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.51/Shadowrocket_10.10.51_shadowrocketStandard_arm64-v8a.apk) |
+| Ponsel Android 32-bit lama | [`Shadowrocket_10.10.51_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.51/Shadowrocket_10.10.51_shadowrocketStandard_armeabi-v7a.apk) |
+| Emulator Android 64-bit | [`Shadowrocket_10.10.51_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.51/Shadowrocket_10.10.51_shadowrocketStandard_x86_64.apk) |
+| Emulator Android lama | [`Shadowrocket_10.10.51_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.51/Shadowrocket_10.10.51_shadowrocketStandard_x86.apk) |
 
 ## Fitur utama
 
