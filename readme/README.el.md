@@ -8,9 +8,9 @@
 
 | Item | Value |
 | --- | --- |
-| Version | `10.10.5` |
+| Version | `10.10.50` |
 | Channel | `Standard` |
-| Release tag | `v10.10.5-standard` |
+| Release tag | `10.10.50` |
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
@@ -20,9 +20,9 @@
 
 | Τύπος συσκευής | APK |
 | --- | --- |
-| Τα περισσότερα σύγχρονα τηλέφωνα Android | [`Shadowrocket_10.10.5_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_arm64-v8a.apk) |
-| Παλαιότερα τηλέφωνα Android 32-bit | [`Shadowrocket_10.10.5_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_armeabi-v7a.apk) |
-| Εξομοιωτής Android 64-bit | [`Shadowrocket_10.10.5_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_x86_64.apk) |
-| Παλαιότερος εξομοιωτής Android | [`Shadowrocket_10.10.5_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/v10.10.5-standard/Shadowrocket_10.10.5_shadowrocketStandard_x86.apk) |
+| Τα περισσότερα σύγχρονα τηλέφωνα Android | [`Shadowrocket_10.10.50_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_arm64-v8a.apk) |
+| Παλαιότερα τηλέφωνα Android 32-bit | [`Shadowrocket_10.10.50_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_armeabi-v7a.apk) |
+| Εξομοιωτής Android 64-bit | [`Shadowrocket_10.10.50_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_x86_64.apk) |
+| Παλαιότερος εξομοιωτής Android | [`Shadowrocket_10.10.50_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.50/Shadowrocket_10.10.50_shadowrocketStandard_x86.apk) |
 
 ...
