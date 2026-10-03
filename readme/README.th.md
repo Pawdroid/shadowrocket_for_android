@@ -8,9 +8,9 @@
 
 | Item | Value |
 | --- | --- |
-| Version | `10.10.55` |
+| Version | `10.10.56` |
 | Channel | `Standard` |
-| Release tag | `10.10.55` |
+| Release tag | `10.10.56` |
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
@@ -20,10 +20,10 @@
 
 | ประเภทอุปกรณ์ | APK |
 | --- | --- |
-| โทรศัพท์ Android รุ่นใหม่ส่วนใหญ่ | [`Shadowrocket_10.10.55_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.55/Shadowrocket_10.10.55_shadowrocketStandard_arm64-v8a.apk) |
-| โทรศัพท์ Android 32-bit รุ่นเก่า | [`Shadowrocket_10.10.55_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.55/Shadowrocket_10.10.55_shadowrocketStandard_armeabi-v7a.apk) |
-| Android emulator 64-bit | [`Shadowrocket_10.10.55_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.55/Shadowrocket_10.10.55_shadowrocketStandard_x86_64.apk) |
-| Android emulator รุ่นเก่า | [`Shadowrocket_10.10.55_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.55/Shadowrocket_10.10.55_shadowrocketStandard_x86.apk) |
+| โทรศัพท์ Android รุ่นใหม่ส่วนใหญ่ | [`Shadowrocket_10.10.56_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.56/Shadowrocket_10.10.56_shadowrocketStandard_arm64-v8a.apk) |
+| โทรศัพท์ Android 32-bit รุ่นเก่า | [`Shadowrocket_10.10.56_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.56/Shadowrocket_10.10.56_shadowrocketStandard_armeabi-v7a.apk) |
+| Android emulator 64-bit | [`Shadowrocket_10.10.56_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.56/Shadowrocket_10.10.56_shadowrocketStandard_x86_64.apk) |
+| Android emulator รุ่นเก่า | [`Shadowrocket_10.10.56_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.56/Shadowrocket_10.10.56_shadowrocketStandard_x86.apk) |
 
 ## คุณสมบัติเด่น
 

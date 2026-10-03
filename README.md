@@ -2,18 +2,18 @@
 
 Official APK download repository for Shadowrocket for Android.
 
-Latest version: `10.10.55`  
-Release tag: `10.10.55`  
+Latest version: `10.10.56`  
+Release tag: `10.10.56`  
 Documentation: <https://docs.shadowrockets.app>
 
 ## Quick Download
 
 | Device type | APK |
 | --- | --- |
-| Most modern Android phones | [`Shadowrocket_10.10.55_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.55/Shadowrocket_10.10.55_shadowrocketStandard_arm64-v8a.apk) |
-| Older 32-bit Android phones | [`Shadowrocket_10.10.55_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.55/Shadowrocket_10.10.55_shadowrocketStandard_armeabi-v7a.apk) |
-| 64-bit Android emulator | [`Shadowrocket_10.10.55_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.55/Shadowrocket_10.10.55_shadowrocketStandard_x86_64.apk) |
-| Older Android emulator | [`Shadowrocket_10.10.55_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.55/Shadowrocket_10.10.55_shadowrocketStandard_x86.apk) |
+| Most modern Android phones | [`Shadowrocket_10.10.56_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.56/Shadowrocket_10.10.56_shadowrocketStandard_arm64-v8a.apk) |
+| Older 32-bit Android phones | [`Shadowrocket_10.10.56_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.56/Shadowrocket_10.10.56_shadowrocketStandard_armeabi-v7a.apk) |
+| 64-bit Android emulator | [`Shadowrocket_10.10.56_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.56/Shadowrocket_10.10.56_shadowrocketStandard_x86_64.apk) |
+| Older Android emulator | [`Shadowrocket_10.10.56_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.56/Shadowrocket_10.10.56_shadowrocketStandard_x86.apk) |
 
 ## Read This Page In Your Language
 

@@ -8,9 +8,9 @@
 
 | Item | Value |
 | --- | --- |
-| Version | `10.10.55` |
+| Version | `10.10.56` |
 | Channel | `Standard` |
-| Release tag | `10.10.55` |
+| Release tag | `10.10.56` |
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
@@ -20,10 +20,10 @@
 
 | Device type | APK |
 | --- | --- |
-| अधिकांश आधुनिक Android फोन | [`Shadowrocket_10.10.55_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.55/Shadowrocket_10.10.55_shadowrocketStandard_arm64-v8a.apk) |
-| पुराने 32-bit Android फोन | [`Shadowrocket_10.10.55_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.55/Shadowrocket_10.10.55_shadowrocketStandard_armeabi-v7a.apk) |
-| 64-bit Android emulator | [`Shadowrocket_10.10.55_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.55/Shadowrocket_10.10.55_shadowrocketStandard_x86_64.apk) |
-| पुराना Android emulator | [`Shadowrocket_10.10.55_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.55/Shadowrocket_10.10.55_shadowrocketStandard_x86.apk) |
+| अधिकांश आधुनिक Android फोन | [`Shadowrocket_10.10.56_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.56/Shadowrocket_10.10.56_shadowrocketStandard_arm64-v8a.apk) |
+| पुराने 32-bit Android फोन | [`Shadowrocket_10.10.56_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.56/Shadowrocket_10.10.56_shadowrocketStandard_armeabi-v7a.apk) |
+| 64-bit Android emulator | [`Shadowrocket_10.10.56_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.56/Shadowrocket_10.10.56_shadowrocketStandard_x86_64.apk) |
+| पुराना Android emulator | [`Shadowrocket_10.10.56_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.56/Shadowrocket_10.10.56_shadowrocketStandard_x86.apk) |
 
 ## मुख्य सुविधाएँ
 
