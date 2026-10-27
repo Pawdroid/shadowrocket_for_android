@@ -8,9 +8,9 @@
 
 | Item | Value |
 | --- | --- |
-| Version | `10.10.58` |
+| Version | `10.10.62` |
 | Channel | `Standard` |
-| Release tag | `10.10.58` |
+| Release tag | `10.10.62` |
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
@@ -20,10 +20,10 @@ APK متناسب با معماری دستگاه را انتخاب کنید. اگ
 
 | نوع دستگاه | APK |
 | --- | --- |
-| بیشتر گوشی‌های جدید Android | [`Shadowrocket_10.10.58_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.58/Shadowrocket_10.10.58_shadowrocketStandard_arm64-v8a.apk) |
-| گوشی‌های قدیمی 32-bit Android | [`Shadowrocket_10.10.58_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.58/Shadowrocket_10.10.58_shadowrocketStandard_armeabi-v7a.apk) |
-| شبیه‌ساز 64-bit Android | [`Shadowrocket_10.10.58_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.58/Shadowrocket_10.10.58_shadowrocketStandard_x86_64.apk) |
-| شبیه‌ساز قدیمی Android | [`Shadowrocket_10.10.58_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.58/Shadowrocket_10.10.58_shadowrocketStandard_x86.apk) |
+| بیشتر گوشی‌های جدید Android | [`Shadowrocket_10.10.62_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.62/Shadowrocket_10.10.62_shadowrocketStandard_arm64-v8a.apk) |
+| گوشی‌های قدیمی 32-bit Android | [`Shadowrocket_10.10.62_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.62/Shadowrocket_10.10.62_shadowrocketStandard_armeabi-v7a.apk) |
+| شبیه‌ساز 64-bit Android | [`Shadowrocket_10.10.62_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.62/Shadowrocket_10.10.62_shadowrocketStandard_x86_64.apk) |
+| شبیه‌ساز قدیمی Android | [`Shadowrocket_10.10.62_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.62/Shadowrocket_10.10.62_shadowrocketStandard_x86.apk) |
 
 ## ویژگی‌ها
 
