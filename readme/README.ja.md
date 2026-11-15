@@ -15,16 +15,16 @@
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
-## APK をダウンロード — GitHub 10.10.64
+## APK をダウンロード — GitHub 10.10.66
 
 端末の CPU アーキテクチャに合う APK を選んでください。不明な場合は、まず arm64-v8a を選択してください。
 
 | 端末タイプ | APK |
 | --- | --- |
-| ほとんどの新しい Android スマートフォン | [`Shadowrocket_10.10.64_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.64/Shadowrocket_10.10.64_shadowrocketStandard_arm64-v8a.apk) |
-| 古い 32-bit Android スマートフォン | [`Shadowrocket_10.10.64_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.64/Shadowrocket_10.10.64_shadowrocketStandard_armeabi-v7a.apk) |
-| 64-bit Android エミュレーター | [`Shadowrocket_10.10.64_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.64/Shadowrocket_10.10.64_shadowrocketStandard_x86_64.apk) |
-| 古い Android エミュレーター | [`Shadowrocket_10.10.64_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.64/Shadowrocket_10.10.64_shadowrocketStandard_x86.apk) |
+| ほとんどの新しい Android スマートフォン | [`Shadowrocket_10.10.66_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_arm64-v8a.apk) |
+| 古い 32-bit Android スマートフォン | [`Shadowrocket_10.10.66_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_armeabi-v7a.apk) |
+| 64-bit Android エミュレーター | [`Shadowrocket_10.10.66_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_x86_64.apk) |
+| 古い Android エミュレーター | [`Shadowrocket_10.10.66_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_x86.apk) |
 
 ## 主な機能
 

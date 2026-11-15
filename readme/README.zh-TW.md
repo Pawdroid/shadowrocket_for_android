@@ -15,16 +15,16 @@
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
-## 下載 APK — GitHub 10.10.64
+## 下載 APK — GitHub 10.10.66
 
 請選擇符合裝置 CPU 架構的 APK。如果不確定，建議優先下載 arm64-v8a。
 
 | 裝置類型 | APK 檔案 |
 | --- | --- |
-| 大多數現代 Android 手機 | [`Shadowrocket_10.10.64_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.64/Shadowrocket_10.10.64_shadowrocketStandard_arm64-v8a.apk) |
-| 較舊的 32 位元 Android 手機 | [`Shadowrocket_10.10.64_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.64/Shadowrocket_10.10.64_shadowrocketStandard_armeabi-v7a.apk) |
-| 64 位元 Android 模擬器 | [`Shadowrocket_10.10.64_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.64/Shadowrocket_10.10.64_shadowrocketStandard_x86_64.apk) |
-| 較舊的 Android 模擬器 | [`Shadowrocket_10.10.64_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.64/Shadowrocket_10.10.64_shadowrocketStandard_x86.apk) |
+| 大多數現代 Android 手機 | [`Shadowrocket_10.10.66_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_arm64-v8a.apk) |
+| 較舊的 32 位元 Android 手機 | [`Shadowrocket_10.10.66_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_armeabi-v7a.apk) |
+| 64 位元 Android 模擬器 | [`Shadowrocket_10.10.66_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_x86_64.apk) |
+| 較舊的 Android 模擬器 | [`Shadowrocket_10.10.66_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_x86.apk) |
 
 ## 功能亮點
 

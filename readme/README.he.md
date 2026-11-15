@@ -15,16 +15,16 @@
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
-## הורדת APK — GitHub 10.10.64
+## הורדת APK — GitHub 10.10.66
 
 בחר את קובץ ה-APK שמתאים לארכיטקטורת המכשיר. אם אינך בטוח, בחר קודם arm64-v8a.
 
 | סוג מכשיר | APK |
 | --- | --- |
-| רוב מכשירי Android החדשים | [`Shadowrocket_10.10.64_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.64/Shadowrocket_10.10.64_shadowrocketStandard_arm64-v8a.apk) |
-| מכשירי Android ישנים 32-bit | [`Shadowrocket_10.10.64_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.64/Shadowrocket_10.10.64_shadowrocketStandard_armeabi-v7a.apk) |
-| אמולטור Android 64-bit | [`Shadowrocket_10.10.64_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.64/Shadowrocket_10.10.64_shadowrocketStandard_x86_64.apk) |
-| אמולטור Android ישן | [`Shadowrocket_10.10.64_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.64/Shadowrocket_10.10.64_shadowrocketStandard_x86.apk) |
+| רוב מכשירי Android החדשים | [`Shadowrocket_10.10.66_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_arm64-v8a.apk) |
+| מכשירי Android ישנים 32-bit | [`Shadowrocket_10.10.66_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_armeabi-v7a.apk) |
+| אמולטור Android 64-bit | [`Shadowrocket_10.10.66_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_x86_64.apk) |
+| אמולטור Android ישן | [`Shadowrocket_10.10.66_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_x86.apk) |
 
 ## תכונות
 
