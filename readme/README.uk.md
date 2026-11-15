@@ -8,13 +8,14 @@
 
 | Item | Value |
 | --- | --- |
-| Version | `10.10.64` |
+| Version | [`10.10.66`](https://shadowrockets.app/download/) |
 | Channel | `Standard` |
-| Release tag | `10.10.64` |
+| GitHub releases | [Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases) |
+| Release notes | [10.10.66](https://shadowrockets.app/changelog/#101066) |
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
-## Завантажити APK
+## Завантажити APK — GitHub 10.10.64
 
 Оберіть APK відповідно до архітектури CPU пристрою. Якщо не впевнені, спершу виберіть arm64-v8a。
 

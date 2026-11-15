@@ -8,13 +8,14 @@
 
 | Item | Value |
 | --- | --- |
-| Version | `10.10.64` |
+| Version | [`10.10.66`](https://shadowrockets.app/download/) |
 | Channel | `Standard` |
-| Release tag | `10.10.64` |
+| GitHub releases | [Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases) |
+| Release notes | [10.10.66](https://shadowrockets.app/changelog/#101066) |
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
-## APK डाउनलोड करें
+## APK डाउनलोड करें — GitHub 10.10.64
 
 अपने device की CPU architecture के अनुसार APK चुनें। अगर निश्चित नहीं हैं, पहले arm64-v8a चुनें।
 

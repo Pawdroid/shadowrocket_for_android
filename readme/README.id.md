@@ -8,13 +8,14 @@
 
 | Item | Value |
 | --- | --- |
-| Version | `10.10.64` |
+| Version | [`10.10.66`](https://shadowrockets.app/download/) |
 | Channel | `Standard` |
-| Release tag | `10.10.64` |
+| GitHub releases | [Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases) |
+| Release notes | [10.10.66](https://shadowrockets.app/changelog/#101066) |
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
-## Unduh APK
+## Unduh APK — GitHub 10.10.64
 
 Pilih APK yang sesuai dengan arsitektur CPU perangkat Anda. Jika ragu, pilih arm64-v8a terlebih dahulu.
 

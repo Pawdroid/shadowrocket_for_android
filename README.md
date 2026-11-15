@@ -2,11 +2,11 @@
 
 Official APK download repository for Shadowrocket for Android.
 
-Latest version: `10.10.64`  
-Release tag: `10.10.64`  
-Documentation: <https://docs.shadowrockets.app>
+Latest Standard version: [`10.10.66`](https://shadowrockets.app/download/) · [Release notes](https://shadowrockets.app/changelog/#101066)
 
-## Quick Download
+[GitHub releases](https://github.com/Pawdroid/shadowrocket_for_android/releases) · [Documentation](https://docs.shadowrockets.app)
+
+## Quick Download — GitHub 10.10.64
 
 | Device type | APK |
 | --- | --- |
