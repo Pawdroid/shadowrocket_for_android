@@ -8,23 +8,18 @@
 
 | Item | Value |
 | --- | --- |
-| Version | [`10.10.66`](https://shadowrockets.app/download/) |
+| Standard download | [Official website](https://shadowrockets.app/download/) |
 | Channel | `Standard` |
-| GitHub releases | [Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases) |
-| Release notes | [10.10.66](https://shadowrockets.app/changelog/#101066) |
+| GitHub releases | [Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases/latest) |
+| Release notes | [Changelog](https://shadowrockets.app/changelog/) |
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
-## تنزيل APK — GitHub 10.10.66
+## تنزيل APK
 
 اختر ملف APK المطابق لمعمارية جهازك. إذا لم تكن متأكدًا، اختر arm64-v8a أولًا.
 
-| نوع الجهاز | APK |
-| --- | --- |
-| معظم هواتف Android الحديثة | [`Shadowrocket_10.10.66_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_arm64-v8a.apk) |
-| هواتف Android القديمة 32-bit | [`Shadowrocket_10.10.66_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_armeabi-v7a.apk) |
-| محاكي Android 64-bit | [`Shadowrocket_10.10.66_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_x86_64.apk) |
-| محاكي Android قديم | [`Shadowrocket_10.10.66_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_x86.apk) |
+ملفات APK المتاحة على GitHub موضحة في صفحة [GitHub Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases/latest).
 
 ## الميزات
 

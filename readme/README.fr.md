@@ -8,23 +8,18 @@
 
 | Item | Value |
 | --- | --- |
-| Version | [`10.10.66`](https://shadowrockets.app/download/) |
+| Standard download | [Official website](https://shadowrockets.app/download/) |
 | Channel | `Standard` |
-| GitHub releases | [Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases) |
-| Release notes | [10.10.66](https://shadowrockets.app/changelog/#101066) |
+| GitHub releases | [Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases/latest) |
+| Release notes | [Changelog](https://shadowrockets.app/changelog/) |
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
-## Télécharger l’APK — GitHub 10.10.66
+## Télécharger l’APK
 
 Choisissez l’APK correspondant à l’architecture de votre appareil. En cas de doute, prenez arm64-v8a.
 
-| Type d’appareil | APK |
-| --- | --- |
-| La plupart des téléphones Android récents | [`Shadowrocket_10.10.66_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_arm64-v8a.apk) |
-| Anciens téléphones Android 32 bits | [`Shadowrocket_10.10.66_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_armeabi-v7a.apk) |
-| Émulateur Android 64 bits | [`Shadowrocket_10.10.66_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_x86_64.apk) |
-| Ancien émulateur Android | [`Shadowrocket_10.10.66_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_x86.apk) |
+Les fichiers APK de GitHub sont disponibles sur la page [GitHub Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases/latest).
 
 ## Fonctions principales
 

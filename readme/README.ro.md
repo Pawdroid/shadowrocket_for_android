@@ -8,23 +8,18 @@
 
 | Item | Value |
 | --- | --- |
-| Version | [`10.10.66`](https://shadowrockets.app/download/) |
+| Standard download | [Official website](https://shadowrockets.app/download/) |
 | Channel | `Standard` |
-| GitHub releases | [Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases) |
-| Release notes | [10.10.66](https://shadowrockets.app/changelog/#101066) |
+| GitHub releases | [Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases/latest) |
+| Release notes | [Changelog](https://shadowrockets.app/changelog/) |
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
-## Descărcare APK — GitHub 10.10.66
+## Descărcare APK
 
 Alegeți APK-ul potrivit arhitecturii CPU a dispozitivului. Dacă nu sunteți sigur, alegeți mai întâi arm64-v8a。
 
-| Tip dispozitiv | APK |
-| --- | --- |
-| Majoritatea telefoanelor Android moderne | [`Shadowrocket_10.10.66_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_arm64-v8a.apk) |
-| Telefoane Android vechi pe 32 de biți | [`Shadowrocket_10.10.66_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_armeabi-v7a.apk) |
-| Emulator Android pe 64 de biți | [`Shadowrocket_10.10.66_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_x86_64.apk) |
-| Emulator Android vechi | [`Shadowrocket_10.10.66_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_x86.apk) |
+Fișierele APK de pe GitHub sunt disponibile pe pagina [GitHub Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases/latest).
 
 ## Funcții principale
 

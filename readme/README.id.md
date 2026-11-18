@@ -8,23 +8,18 @@
 
 | Item | Value |
 | --- | --- |
-| Version | [`10.10.66`](https://shadowrockets.app/download/) |
+| Standard download | [Official website](https://shadowrockets.app/download/) |
 | Channel | `Standard` |
-| GitHub releases | [Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases) |
-| Release notes | [10.10.66](https://shadowrockets.app/changelog/#101066) |
+| GitHub releases | [Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases/latest) |
+| Release notes | [Changelog](https://shadowrockets.app/changelog/) |
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
-## Unduh APK — GitHub 10.10.66
+## Unduh APK
 
 Pilih APK yang sesuai dengan arsitektur CPU perangkat Anda. Jika ragu, pilih arm64-v8a terlebih dahulu.
 
-| Jenis perangkat | APK |
-| --- | --- |
-| Sebagian besar ponsel Android modern | [`Shadowrocket_10.10.66_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_arm64-v8a.apk) |
-| Ponsel Android 32-bit lama | [`Shadowrocket_10.10.66_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_armeabi-v7a.apk) |
-| Emulator Android 64-bit | [`Shadowrocket_10.10.66_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_x86_64.apk) |
-| Emulator Android lama | [`Shadowrocket_10.10.66_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.66/Shadowrocket_10.10.66_shadowrocketStandard_x86.apk) |
+File APK di GitHub tersedia di halaman [GitHub Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases/latest).
 
 ## Fitur utama
 
